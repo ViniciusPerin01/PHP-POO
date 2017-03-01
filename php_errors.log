@@ -1,0 +1,233 @@
+[28-Feb-2017 18:41:30 UTC] PHP Fatal error:  Class Livro contains 5 abstract methods and must therefore be declared abstract or implement the remaining methods (Publicacao::abrir, Publicacao::fechar, Publicacao::folhear, ...) in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 86
+[28-Feb-2017 18:41:30 UTC] PHP Stack trace:
+[28-Feb-2017 18:41:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[28-Feb-2017 18:41:30 UTC] PHP   2. require_once() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:9
+[28-Feb-2017 18:43:12 UTC] PHP Fatal error:  Class Livro contains 5 abstract methods and must therefore be declared abstract or implement the remaining methods (Publicacao::abrir, Publicacao::fechar, Publicacao::folhear, ...) in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 86
+[28-Feb-2017 18:43:12 UTC] PHP Stack trace:
+[28-Feb-2017 18:43:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[28-Feb-2017 18:43:12 UTC] PHP   2. require_once() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:9
+[28-Feb-2017 18:44:48 UTC] PHP Fatal error:  Class Livro contains 5 abstract methods and must therefore be declared abstract or implement the remaining methods (Publicacao::abrir, Publicacao::fechar, Publicacao::folhear, ...) in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 86
+[28-Feb-2017 18:44:48 UTC] PHP Stack trace:
+[28-Feb-2017 18:44:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[28-Feb-2017 18:44:48 UTC] PHP   2. require_once() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:9
+[28-Feb-2017 18:48:31 UTC] PHP Fatal error:  Class Livro contains 5 abstract methods and must therefore be declared abstract or implement the remaining methods (Publicacao::abrir, Publicacao::fechar, Publicacao::folhear, ...) in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 86
+[28-Feb-2017 18:48:31 UTC] PHP Stack trace:
+[28-Feb-2017 18:48:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[28-Feb-2017 18:48:31 UTC] PHP   2. require_once() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:9
+[28-Feb-2017 18:49:51 UTC] PHP Fatal error:  Call to undefined function getNome() in /home/ubuntu/workspace/PHP-POO/New Folder/Pessoa.php on line 15
+[28-Feb-2017 18:49:51 UTC] PHP Stack trace:
+[28-Feb-2017 18:49:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[28-Feb-2017 18:49:51 UTC] PHP   2. Pessoa->apresentarPessoa() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:14
+[28-Feb-2017 18:50:03 UTC] PHP Fatal error:  Call to undefined function getNome() in /home/ubuntu/workspace/PHP-POO/New Folder/Pessoa.php on line 15
+[28-Feb-2017 18:50:03 UTC] PHP Stack trace:
+[28-Feb-2017 18:50:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[28-Feb-2017 18:50:03 UTC] PHP   2. Pessoa->apresentarPessoa() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:14
+[28-Feb-2017 18:51:49 UTC] PHP Fatal error:  Call to undefined function getIdade() in /home/ubuntu/workspace/PHP-POO/New Folder/Pessoa.php on line 17
+[28-Feb-2017 18:51:49 UTC] PHP Stack trace:
+[28-Feb-2017 18:51:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[28-Feb-2017 18:51:49 UTC] PHP   2. Pessoa->apresentarPessoa() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:14
+[28-Feb-2017 18:52:06 UTC] PHP Fatal error:  Call to undefined function getTitulo() in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 20
+[28-Feb-2017 18:52:06 UTC] PHP Stack trace:
+[28-Feb-2017 18:52:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[28-Feb-2017 18:52:06 UTC] PHP   2. Livro->detalhes() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:15
+[28-Feb-2017 18:53:17 UTC] PHP Fatal error:  Call to a member function getNome() on a non-object in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 23
+[28-Feb-2017 18:53:17 UTC] PHP Stack trace:
+[28-Feb-2017 18:53:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[28-Feb-2017 18:53:17 UTC] PHP   2. Livro->detalhes() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:15
+[28-Feb-2017 18:53:35 UTC] PHP Fatal error:  Call to a member function getNome() on a non-object in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 23
+[28-Feb-2017 18:53:35 UTC] PHP Stack trace:
+[28-Feb-2017 18:53:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[28-Feb-2017 18:53:35 UTC] PHP   2. Livro->detalhes() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:15
+[28-Feb-2017 18:54:05 UTC] PHP Fatal error:  Cannot access empty property in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 23
+[28-Feb-2017 18:54:05 UTC] PHP Stack trace:
+[28-Feb-2017 18:54:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[28-Feb-2017 18:54:05 UTC] PHP   2. Livro->detalhes() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:15
+[28-Feb-2017 18:54:41 UTC] PHP Fatal error:  Call to undefined function setLeitor() in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 27
+[28-Feb-2017 18:54:41 UTC] PHP Stack trace:
+[28-Feb-2017 18:54:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[28-Feb-2017 18:54:41 UTC] PHP   2. Livro->emprestarLivro() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:16
+[28-Feb-2017 18:56:49 UTC] PHP Fatal error:  Call to undefined function setLeitor() in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 28
+[28-Feb-2017 18:56:49 UTC] PHP Stack trace:
+[28-Feb-2017 18:56:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[28-Feb-2017 18:56:49 UTC] PHP   2. Livro->emprestarLivro() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:16
+[01-Mar-2017 21:34:30 UTC] PHP Fatal error:  Call to undefined function setLeitor() in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 28
+[01-Mar-2017 21:34:30 UTC] PHP Stack trace:
+[01-Mar-2017 21:34:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 21:34:30 UTC] PHP   2. Livro->emprestarLivro() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:16
+[01-Mar-2017 21:35:46 UTC] PHP Fatal error:  Call to undefined function setLeitor() in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 28
+[01-Mar-2017 21:35:46 UTC] PHP Stack trace:
+[01-Mar-2017 21:35:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 21:35:46 UTC] PHP   2. Livro->emprestarLivro() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:16
+[01-Mar-2017 21:38:36 UTC] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM), expecting ',' or ';' in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 29
+[01-Mar-2017 21:38:36 UTC] PHP Stack trace:
+[01-Mar-2017 21:38:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 21:39:04 UTC] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM), expecting ',' or ';' in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 29
+[01-Mar-2017 21:39:04 UTC] PHP Stack trace:
+[01-Mar-2017 21:39:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 21:39:24 UTC] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM), expecting ',' or ';' in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 29
+[01-Mar-2017 21:39:24 UTC] PHP Stack trace:
+[01-Mar-2017 21:39:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 21:39:42 UTC] PHP Fatal error:  Call to undefined function setLeitor() in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 28
+[01-Mar-2017 21:39:42 UTC] PHP Stack trace:
+[01-Mar-2017 21:39:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 21:39:42 UTC] PHP   2. Livro->emprestarLivro() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:16
+[01-Mar-2017 21:40:15 UTC] PHP Fatal error:  Call to undefined function setLeitor() in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 28
+[01-Mar-2017 21:40:15 UTC] PHP Stack trace:
+[01-Mar-2017 21:40:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 21:40:15 UTC] PHP   2. Livro->emprestarLivro() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:16
+[01-Mar-2017 21:44:59 UTC] PHP Fatal error:  Call to undefined function setLeitor() in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 28
+[01-Mar-2017 21:44:59 UTC] PHP Stack trace:
+[01-Mar-2017 21:44:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 21:44:59 UTC] PHP   2. Livro->emprestarLivro() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:16
+[01-Mar-2017 21:45:22 UTC] PHP Fatal error:  Cannot access empty property in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 23
+[01-Mar-2017 21:45:22 UTC] PHP Stack trace:
+[01-Mar-2017 21:45:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 21:45:22 UTC] PHP   2. Livro->detalhes() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:17
+[01-Mar-2017 21:47:19 UTC] PHP Fatal error:  Call to a member function getNome() on a non-object in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 23
+[01-Mar-2017 21:47:19 UTC] PHP Stack trace:
+[01-Mar-2017 21:47:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 21:47:19 UTC] PHP   2. Livro->detalhes() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:17
+[01-Mar-2017 21:47:54 UTC] PHP Fatal error:  Call to undefined method Livro::getNome() in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 23
+[01-Mar-2017 21:47:54 UTC] PHP Stack trace:
+[01-Mar-2017 21:47:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 21:47:54 UTC] PHP   2. Livro->detalhes() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:17
+[01-Mar-2017 21:49:03 UTC] PHP Fatal error:  Call to a member function getNome() on a non-object in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 23
+[01-Mar-2017 21:49:03 UTC] PHP Stack trace:
+[01-Mar-2017 21:49:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 21:49:03 UTC] PHP   2. Livro->detalhes() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:17
+[01-Mar-2017 21:49:34 UTC] PHP Fatal error:  Call to a member function getNome() on a non-object in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 23
+[01-Mar-2017 21:49:34 UTC] PHP Stack trace:
+[01-Mar-2017 21:49:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 21:49:34 UTC] PHP   2. Livro->detalhes() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:17
+[01-Mar-2017 21:51:34 UTC] PHP Fatal error:  Call to a member function getNome() on a non-object in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 23
+[01-Mar-2017 21:51:34 UTC] PHP Stack trace:
+[01-Mar-2017 21:51:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 21:51:34 UTC] PHP   2. Livro->detalhes() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:17
+[01-Mar-2017 21:55:13 UTC] PHP Fatal error:  Call to a member function getNome() on a non-object in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 23
+[01-Mar-2017 21:55:13 UTC] PHP Stack trace:
+[01-Mar-2017 21:55:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 21:55:13 UTC] PHP   2. Livro->detalhes() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:17
+[01-Mar-2017 21:55:37 UTC] PHP Fatal error:  Call to a member function getNome() on a non-object in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 23
+[01-Mar-2017 21:55:37 UTC] PHP Stack trace:
+[01-Mar-2017 21:55:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 21:55:37 UTC] PHP   2. Livro->detalhes() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:17
+[01-Mar-2017 21:56:06 UTC] PHP Fatal error:  Call to a member function getNome() on a non-object in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 23
+[01-Mar-2017 21:56:06 UTC] PHP Stack trace:
+[01-Mar-2017 21:56:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 21:56:06 UTC] PHP   2. Livro->detalhes() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:17
+[01-Mar-2017 21:59:47 UTC] PHP Fatal error:  Call to a member function getNome() on a non-object in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 23
+[01-Mar-2017 21:59:47 UTC] PHP Stack trace:
+[01-Mar-2017 21:59:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 21:59:47 UTC] PHP   2. Livro->detalhes() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:17
+[01-Mar-2017 22:03:52 UTC] PHP Fatal error:  Call to a member function getNome() on a non-object in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 23
+[01-Mar-2017 22:03:52 UTC] PHP Stack trace:
+[01-Mar-2017 22:03:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 22:03:52 UTC] PHP   2. Livro->detalhes() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:17
+[01-Mar-2017 22:04:17 UTC] PHP Fatal error:  Call to undefined method Livro::getNome() in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 23
+[01-Mar-2017 22:04:17 UTC] PHP Stack trace:
+[01-Mar-2017 22:04:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 22:04:17 UTC] PHP   2. Livro->detalhes() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:17
+[01-Mar-2017 22:05:00 UTC] PHP Fatal error:  Call to a member function getNome() on a non-object in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 23
+[01-Mar-2017 22:05:00 UTC] PHP Stack trace:
+[01-Mar-2017 22:05:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 22:05:00 UTC] PHP   2. Livro->detalhes() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:17
+[01-Mar-2017 22:09:52 UTC] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM), expecting ',' or ';' in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 23
+[01-Mar-2017 22:09:52 UTC] PHP Stack trace:
+[01-Mar-2017 22:09:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 22:09:59 UTC] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM), expecting ',' or ';' in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 23
+[01-Mar-2017 22:09:59 UTC] PHP Stack trace:
+[01-Mar-2017 22:09:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 22:10:09 UTC] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM), expecting ',' or ';' in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 23
+[01-Mar-2017 22:10:09 UTC] PHP Stack trace:
+[01-Mar-2017 22:10:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 22:12:27 UTC] PHP Fatal error:  Call to a member function getNome() on a non-object in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 23
+[01-Mar-2017 22:12:27 UTC] PHP Stack trace:
+[01-Mar-2017 22:12:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 22:12:27 UTC] PHP   2. Livro->detalhes() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:17
+[01-Mar-2017 22:12:46 UTC] PHP Fatal error:  Call to a member function getNome() on a non-object in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 23
+[01-Mar-2017 22:12:46 UTC] PHP Stack trace:
+[01-Mar-2017 22:12:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 22:12:46 UTC] PHP   2. Livro->detalhes() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:17
+[01-Mar-2017 22:12:53 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 23
+[01-Mar-2017 22:12:53 UTC] PHP Stack trace:
+[01-Mar-2017 22:12:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 22:12:53 UTC] PHP   2. Livro->detalhes() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:17
+[01-Mar-2017 22:13:43 UTC] PHP Fatal error:  Cannot access empty property in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 23
+[01-Mar-2017 22:13:43 UTC] PHP Stack trace:
+[01-Mar-2017 22:13:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 22:13:43 UTC] PHP   2. Livro->detalhes() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:17
+[01-Mar-2017 22:18:20 UTC] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM), expecting ',' or ';' in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 23
+[01-Mar-2017 22:18:20 UTC] PHP Stack trace:
+[01-Mar-2017 22:18:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 22:20:22 UTC] PHP Fatal error:  Call to a member function getNome() on a non-object in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 23
+[01-Mar-2017 22:20:22 UTC] PHP Stack trace:
+[01-Mar-2017 22:20:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 22:20:22 UTC] PHP   2. Livro->detalhes() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:17
+[01-Mar-2017 22:20:55 UTC] PHP Fatal error:  Access to undeclared static property: Pessoa::$leitor in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 23
+[01-Mar-2017 22:20:55 UTC] PHP Stack trace:
+[01-Mar-2017 22:20:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 22:20:55 UTC] PHP   2. Livro->detalhes() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:17
+[01-Mar-2017 22:21:50 UTC] PHP Fatal error:  Access to undeclared static property: Pessoa::$this in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 23
+[01-Mar-2017 22:21:50 UTC] PHP Stack trace:
+[01-Mar-2017 22:21:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 22:21:50 UTC] PHP   2. Livro->detalhes() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:17
+[01-Mar-2017 22:28:37 UTC] PHP Fatal error:  Call to a member function getNome() on a non-object in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 23
+[01-Mar-2017 22:28:37 UTC] PHP Stack trace:
+[01-Mar-2017 22:28:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 22:28:37 UTC] PHP   2. Livro->detalhes() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:17
+[01-Mar-2017 22:34:23 UTC] PHP Fatal error:  Call to a member function getNome() on a non-object in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 23
+[01-Mar-2017 22:34:23 UTC] PHP Stack trace:
+[01-Mar-2017 22:34:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 22:34:23 UTC] PHP   2. Livro->detalhes() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:17
+[01-Mar-2017 22:50:10 UTC] PHP Fatal error:  Call to a member function getNome() on a non-object in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 29
+[01-Mar-2017 22:50:10 UTC] PHP Stack trace:
+[01-Mar-2017 22:50:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 22:50:10 UTC] PHP   2. Livro->emprestarLivro() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:16
+[01-Mar-2017 22:54:53 UTC] PHP Fatal error:  Call to a member function setNome() on a non-object in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 29
+[01-Mar-2017 22:54:53 UTC] PHP Stack trace:
+[01-Mar-2017 22:54:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 22:54:53 UTC] PHP   2. Livro->emprestarLivro() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:16
+[01-Mar-2017 22:56:38 UTC] PHP Fatal error:  Call to a member function setNome() on a non-object in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 29
+[01-Mar-2017 22:56:38 UTC] PHP Stack trace:
+[01-Mar-2017 22:56:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 22:56:38 UTC] PHP   2. Livro->emprestarLivro() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:16
+[01-Mar-2017 22:59:11 UTC] PHP Fatal error:  Call to a member function getNome() on a non-object in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 24
+[01-Mar-2017 22:59:11 UTC] PHP Stack trace:
+[01-Mar-2017 22:59:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 22:59:11 UTC] PHP   2. Livro->detalhes() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:17
+[01-Mar-2017 22:59:38 UTC] PHP Fatal error:  Call to a member function getNome() on a non-object in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 24
+[01-Mar-2017 22:59:38 UTC] PHP Stack trace:
+[01-Mar-2017 22:59:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 22:59:38 UTC] PHP   2. Livro->detalhes() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:17
+[01-Mar-2017 23:00:13 UTC] PHP Fatal error:  Call to a member function getNome() on a non-object in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 24
+[01-Mar-2017 23:00:13 UTC] PHP Stack trace:
+[01-Mar-2017 23:00:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 23:00:13 UTC] PHP   2. Livro->detalhes() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:17
+[01-Mar-2017 23:00:45 UTC] PHP Fatal error:  Call to a member function getNome() on a non-object in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 24
+[01-Mar-2017 23:00:45 UTC] PHP Stack trace:
+[01-Mar-2017 23:00:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 23:00:45 UTC] PHP   2. Livro->detalhes() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:17
+[01-Mar-2017 23:03:16 UTC] PHP Fatal error:  Call to a member function getNome() on a non-object in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 24
+[01-Mar-2017 23:03:16 UTC] PHP Stack trace:
+[01-Mar-2017 23:03:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 23:03:16 UTC] PHP   2. Livro->detalhes() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:17
+[01-Mar-2017 23:04:59 UTC] PHP Fatal error:  Call to a member function getNome() on a non-object in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 24
+[01-Mar-2017 23:04:59 UTC] PHP Stack trace:
+[01-Mar-2017 23:04:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 23:04:59 UTC] PHP   2. Livro->detalhes() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:17
+[01-Mar-2017 23:06:27 UTC] PHP Fatal error:  Class 'Leitor' not found in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 24
+[01-Mar-2017 23:06:27 UTC] PHP Stack trace:
+[01-Mar-2017 23:06:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 23:06:27 UTC] PHP   2. Livro->detalhes() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:17
+[01-Mar-2017 23:06:45 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 24
+[01-Mar-2017 23:06:45 UTC] PHP Stack trace:
+[01-Mar-2017 23:06:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 23:06:45 UTC] PHP   2. Livro->detalhes() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:17
+[01-Mar-2017 23:29:24 UTC] PHP Fatal error:  Call to a member function getNome() on a non-object in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 34
+[01-Mar-2017 23:29:24 UTC] PHP Stack trace:
+[01-Mar-2017 23:29:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 23:29:24 UTC] PHP   2. Livro->devolverLivro() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:18
+[01-Mar-2017 23:29:53 UTC] PHP Fatal error:  Call to a member function getNome() on a non-object in /home/ubuntu/workspace/PHP-POO/New Folder/Livro.php on line 34
+[01-Mar-2017 23:29:53 UTC] PHP Stack trace:
+[01-Mar-2017 23:29:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:0
+[01-Mar-2017 23:29:53 UTC] PHP   2. Livro->devolverLivro() /home/ubuntu/workspace/PHP-POO/New Folder/index.php:18
