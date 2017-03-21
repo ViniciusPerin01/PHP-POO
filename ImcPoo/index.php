@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+    <!-- Autor: Maycon de Moraes, data 03/03/2017 -->
     <head>
         <meta charset="UTF-8">
         <title>Calculadora IMC - PHP</title>

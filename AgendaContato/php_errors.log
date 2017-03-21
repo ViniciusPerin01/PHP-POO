@@ -1,0 +1,142 @@
+[19-Mar-2017 15:36:10 UTC] PHP Warning:  require_once(./classe/Conexao.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/PHP-POO/AgendaContato/template/index.php on line 3
+[19-Mar-2017 15:36:10 UTC] PHP Stack trace:
+[19-Mar-2017 15:36:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/index.php:0
+[19-Mar-2017 15:36:10 UTC] PHP Fatal error:  require_once(): Failed opening required './classe/Conexao.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/PHP-POO/AgendaContato/template/index.php on line 3
+[19-Mar-2017 15:36:10 UTC] PHP Stack trace:
+[19-Mar-2017 15:36:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/index.php:0
+[19-Mar-2017 15:36:29 UTC] PHP Warning:  require_once(classe/Conexao.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/PHP-POO/AgendaContato/template/index.php on line 3
+[19-Mar-2017 15:36:29 UTC] PHP Stack trace:
+[19-Mar-2017 15:36:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/index.php:0
+[19-Mar-2017 15:36:29 UTC] PHP Fatal error:  require_once(): Failed opening required 'classe/Conexao.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/PHP-POO/AgendaContato/template/index.php on line 3
+[19-Mar-2017 15:36:29 UTC] PHP Stack trace:
+[19-Mar-2017 15:36:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/index.php:0
+[19-Mar-2017 15:37:04 UTC] PHP Warning:  require_once(/classe/Conexao.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/PHP-POO/AgendaContato/template/index.php on line 3
+[19-Mar-2017 15:37:04 UTC] PHP Stack trace:
+[19-Mar-2017 15:37:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/index.php:0
+[19-Mar-2017 15:37:04 UTC] PHP Fatal error:  require_once(): Failed opening required '/classe/Conexao.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/PHP-POO/AgendaContato/template/index.php on line 3
+[19-Mar-2017 15:37:04 UTC] PHP Stack trace:
+[19-Mar-2017 15:37:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/index.php:0
+[19-Mar-2017 15:37:55 UTC] PHP Warning:  require_once(../BancoDeDados.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/PHP-POO/AgendaContato/template/index.php on line 3
+[19-Mar-2017 15:37:55 UTC] PHP Stack trace:
+[19-Mar-2017 15:37:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/index.php:0
+[19-Mar-2017 15:37:55 UTC] PHP Fatal error:  require_once(): Failed opening required '../BancoDeDados.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/PHP-POO/AgendaContato/template/index.php on line 3
+[19-Mar-2017 15:37:55 UTC] PHP Stack trace:
+[19-Mar-2017 15:37:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/index.php:0
+[19-Mar-2017 16:42:57 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/PHP-POO/AgendaContato/classe/BancoDeDados.php on line 34
+[19-Mar-2017 16:42:57 UTC] PHP Stack trace:
+[19-Mar-2017 16:42:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/index.php:0
+[19-Mar-2017 16:42:57 UTC] PHP   2. BancoDeDados->insere() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/index.php:13
+[19-Mar-2017 16:43:22 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/PHP-POO/AgendaContato/classe/BancoDeDados.php on line 34
+[19-Mar-2017 16:43:22 UTC] PHP Stack trace:
+[19-Mar-2017 16:43:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/index.php:0
+[19-Mar-2017 16:43:22 UTC] PHP   2. BancoDeDados->insere() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/index.php:13
+[19-Mar-2017 16:43:52 UTC] PHP Catchable fatal error:  Object of class BancoDeDados could not be converted to string in /home/ubuntu/workspace/PHP-POO/AgendaContato/classe/BancoDeDados.php on line 23
+[19-Mar-2017 16:43:52 UTC] PHP Stack trace:
+[19-Mar-2017 16:43:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/index.php:0
+[19-Mar-2017 16:43:52 UTC] PHP   2. BancoDeDados->conexao() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/index.php:7
+[19-Mar-2017 16:44:23 UTC] PHP Fatal error:  Call to a member function setAttribute() on a non-object in /home/ubuntu/workspace/PHP-POO/AgendaContato/classe/BancoDeDados.php on line 24
+[19-Mar-2017 16:44:23 UTC] PHP Stack trace:
+[19-Mar-2017 16:44:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/index.php:0
+[19-Mar-2017 16:44:23 UTC] PHP   2. BancoDeDados->conexao() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/index.php:7
+[19-Mar-2017 16:46:06 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/PHP-POO/AgendaContato/classe/BancoDeDados.php on line 35
+[19-Mar-2017 16:46:06 UTC] PHP Stack trace:
+[19-Mar-2017 16:46:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/index.php:0
+[19-Mar-2017 16:46:06 UTC] PHP   2. BancoDeDados->insere() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/index.php:13
+[19-Mar-2017 16:55:23 UTC] PHP Fatal error:  Call to undefined method PDO::close() in /home/ubuntu/workspace/PHP-POO/AgendaContato/classe/BancoDeDados.php on line 42
+[19-Mar-2017 16:55:23 UTC] PHP Stack trace:
+[19-Mar-2017 16:55:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/index.php:0
+[19-Mar-2017 16:55:23 UTC] PHP   2. BancoDeDados->insere() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/index.php:13
+[19-Mar-2017 16:56:21 UTC] PHP Fatal error:  Call to undefined method PDO::close() in /home/ubuntu/workspace/PHP-POO/AgendaContato/classe/BancoDeDados.php on line 42
+[19-Mar-2017 16:56:21 UTC] PHP Stack trace:
+[19-Mar-2017 16:56:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/index.php:0
+[19-Mar-2017 16:56:21 UTC] PHP   2. BancoDeDados->insere() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/index.php:12
+[19-Mar-2017 17:14:06 UTC] PHP Fatal error:  Call to undefined method PDO::close() in /home/ubuntu/workspace/PHP-POO/AgendaContato/classe/BancoDeDados.php on line 66
+[19-Mar-2017 17:14:06 UTC] PHP Stack trace:
+[19-Mar-2017 17:14:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/index.php:0
+[19-Mar-2017 17:14:06 UTC] PHP   2. BancoDeDados->fechaConexao() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/index.php:22
+[19-Mar-2017 17:15:38 UTC] PHP Fatal error:  Call to undefined method PDO::close() in /home/ubuntu/workspace/PHP-POO/AgendaContato/classe/BancoDeDados.php on line 67
+[19-Mar-2017 17:15:38 UTC] PHP Stack trace:
+[19-Mar-2017 17:15:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/index.php:0
+[19-Mar-2017 17:15:38 UTC] PHP   2. BancoDeDados->fechaConexao() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/index.php:22
+[19-Mar-2017 17:19:40 UTC] PHP Fatal error:  Call to undefined method PDO::close() in /home/ubuntu/workspace/PHP-POO/AgendaContato/classe/BancoDeDados.php on line 66
+[19-Mar-2017 17:19:40 UTC] PHP Stack trace:
+[19-Mar-2017 17:19:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/index.php:0
+[19-Mar-2017 17:19:40 UTC] PHP   2. BancoDeDados->fechaConexao() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/index.php:22
+[19-Mar-2017 20:21:37 UTC] PHP Fatal error:  Call to undefined method PDOStatement::fetch_assoc() in /home/ubuntu/workspace/PHP-POO/AgendaContato/classe/BancoDeDados.php on line 71
+[19-Mar-2017 20:21:37 UTC] PHP Stack trace:
+[19-Mar-2017 20:21:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/agenda.php:0
+[19-Mar-2017 20:21:37 UTC] PHP   2. BancoDeDados->preencheTabela() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/agenda.php:70
+[19-Mar-2017 20:28:42 UTC] PHP Fatal error:  Call to undefined method PDOStatement::fetch_assoc() in /home/ubuntu/workspace/PHP-POO/AgendaContato/template/agenda.php on line 76
+[19-Mar-2017 20:28:42 UTC] PHP Stack trace:
+[19-Mar-2017 20:28:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/agenda.php:0
+[19-Mar-2017 20:30:07 UTC] PHP Fatal error:  Call to undefined method PDOStatement::fetch_assoc() in /home/ubuntu/workspace/PHP-POO/AgendaContato/template/agenda.php on line 76
+[19-Mar-2017 20:30:07 UTC] PHP Stack trace:
+[19-Mar-2017 20:30:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/agenda.php:0
+[19-Mar-2017 20:35:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ubuntu/workspace/PHP-POO/AgendaContato/template/agenda.php on line 72
+[19-Mar-2017 20:35:52 UTC] PHP Stack trace:
+[19-Mar-2017 20:35:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/agenda.php:0
+[19-Mar-2017 20:35:52 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/agenda.php:72
+[19-Mar-2017 20:35:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/PHP-POO/AgendaContato/template/agenda.php on line 74
+[19-Mar-2017 20:35:52 UTC] PHP Stack trace:
+[19-Mar-2017 20:35:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/agenda.php:0
+[19-Mar-2017 20:35:52 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/agenda.php:74
+[19-Mar-2017 20:37:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ubuntu/workspace/PHP-POO/AgendaContato/template/agenda.php on line 72
+[19-Mar-2017 20:37:09 UTC] PHP Stack trace:
+[19-Mar-2017 20:37:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/agenda.php:0
+[19-Mar-2017 20:37:09 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/agenda.php:72
+[19-Mar-2017 20:37:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/PHP-POO/AgendaContato/template/agenda.php on line 74
+[19-Mar-2017 20:37:09 UTC] PHP Stack trace:
+[19-Mar-2017 20:37:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/agenda.php:0
+[19-Mar-2017 20:37:09 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/agenda.php:74
+[19-Mar-2017 20:43:09 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/PHP-POO/AgendaContato/template/agenda.php on line 76
+[19-Mar-2017 20:43:09 UTC] PHP Stack trace:
+[19-Mar-2017 20:43:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/agenda.php:0
+[19-Mar-2017 20:47:12 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/PHP-POO/AgendaContato/template/agenda.php on line 76
+[19-Mar-2017 20:47:12 UTC] PHP Stack trace:
+[19-Mar-2017 20:47:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/agenda.php:0
+[19-Mar-2017 20:47:46 UTC] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/ubuntu/workspace/PHP-POO/AgendaContato/template/agenda.php on line 76
+[19-Mar-2017 20:47:46 UTC] PHP Stack trace:
+[19-Mar-2017 20:47:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/agenda.php:0
+[19-Mar-2017 20:55:55 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/ubuntu/workspace/PHP-POO/AgendaContato/template/agenda.php on line 76
+[19-Mar-2017 20:55:55 UTC] PHP Stack trace:
+[19-Mar-2017 20:55:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/agenda.php:0
+[19-Mar-2017 21:05:14 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/ubuntu/workspace/PHP-POO/AgendaContato/template/agenda.php on line 75
+[19-Mar-2017 21:05:14 UTC] PHP Stack trace:
+[19-Mar-2017 21:05:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/agenda.php:0
+[19-Mar-2017 21:06:49 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/ubuntu/workspace/PHP-POO/AgendaContato/template/agenda.php on line 75
+[19-Mar-2017 21:06:49 UTC] PHP Stack trace:
+[19-Mar-2017 21:06:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/agenda.php:0
+[19-Mar-2017 21:10:02 UTC] PHP Warning:  next() expects exactly 1 parameter, 0 given in /home/ubuntu/workspace/PHP-POO/AgendaContato/template/agenda.php on line 75
+[19-Mar-2017 21:10:02 UTC] PHP Stack trace:
+[19-Mar-2017 21:10:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/agenda.php:0
+[19-Mar-2017 21:10:02 UTC] PHP   2. next() /home/ubuntu/workspace/PHP-POO/AgendaContato/template/agenda.php:75
+[20-Mar-2017 21:55:37 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '�o Pedro, joao@hotmail.com, (41) 9897-5566, (41) 3214-7854, Rua que mora o joao' at line 1' in /home/ubuntu/workspace/PHP-POO/AgendaContato/classe/BancoDeDados.php:36
+Stack trace:
+#0 /home/ubuntu/workspace/PHP-POO/AgendaContato/classe/BancoDeDados.php(36): PDO->query('INSERT INTO con...')
+#1 /home/ubuntu/workspace/PHP-POO/AgendaContato/template/cadastra.php(13): BancoDeDados->insere('INSERT INTO con...')
+#2 {main}
+  thrown in /home/ubuntu/workspace/PHP-POO/AgendaContato/classe/BancoDeDados.php on line 36
+[20-Mar-2017 21:58:12 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '�, ´, ´, ´, ´)' at line 1' in /home/ubuntu/workspace/PHP-POO/AgendaContato/classe/BancoDeDados.php:36
+Stack trace:
+#0 /home/ubuntu/workspace/PHP-POO/AgendaContato/classe/BancoDeDados.php(36): PDO->query('INSERT INTO con...')
+#1 /home/ubuntu/workspace/PHP-POO/AgendaContato/template/cadastra.php(13): BancoDeDados->insere('INSERT INTO con...')
+#2 {main}
+  thrown in /home/ubuntu/workspace/PHP-POO/AgendaContato/classe/BancoDeDados.php on line 36
+[20-Mar-2017 22:00:19 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'aurelio, pa@gmail.com, 41 99988-7766, 41 2233-4455, rua do pedro)' at line 1' in /home/ubuntu/workspace/PHP-POO/AgendaContato/classe/BancoDeDados.php:36
+Stack trace:
+#0 /home/ubuntu/workspace/PHP-POO/AgendaContato/classe/BancoDeDados.php(36): PDO->query('INSERT INTO con...')
+#1 /home/ubuntu/workspace/PHP-POO/AgendaContato/template/cadastra.php(19): BancoDeDados->insere('INSERT INTO con...')
+#2 {main}
+  thrown in /home/ubuntu/workspace/PHP-POO/AgendaContato/classe/BancoDeDados.php on line 36
+[20-Mar-2017 22:33:28 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'an', 'ronaldex@gmail.com', '(41) 9900-5566', '(41) 3344-5577', 'Rua que o Ronald' at line 1' in /home/ubuntu/workspace/PHP-POO/AgendaContato/classe/BancoDeDados.php:36
+Stack trace:
+#0 /home/ubuntu/workspace/PHP-POO/AgendaContato/classe/BancoDeDados.php(36): PDO->query('INSERT INTO con...')
+#1 /home/ubuntu/workspace/PHP-POO/AgendaContato/template/cadastra.php(19): BancoDeDados->insere('INSERT INTO con...')
+#2 {main}
+  thrown in /home/ubuntu/workspace/PHP-POO/AgendaContato/classe/BancoDeDados.php on line 36
+[20-Mar-2017 22:34:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'an', 'ronaldex@gmail.com', '(41) 9900-5566', '(41) 3344-5577', 'Rua que o Ronald' at line 1' in /home/ubuntu/workspace/PHP-POO/AgendaContato/classe/BancoDeDados.php:36
+Stack trace:
+#0 /home/ubuntu/workspace/PHP-POO/AgendaContato/classe/BancoDeDados.php(36): PDO->query('INSERT INTO con...')
+#1 /home/ubuntu/workspace/PHP-POO/AgendaContato/template/cadastra.php(19): BancoDeDados->insere('INSERT INTO con...')
+#2 {main}
+  thrown in /home/ubuntu/workspace/PHP-POO/AgendaContato/classe/BancoDeDados.php on line 36
